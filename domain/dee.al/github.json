@@ -8,6 +8,12 @@
 
 {
     "koneksi": "CNAME",
+    "hostku": "thelastgulugulu",
+    "target": "lydnohb.github.io"
+},
+
+{
+    "koneksi": "CNAME",
     "hostku": "",
     "target": "fsteamid.github.io"
 },
